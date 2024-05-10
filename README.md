@@ -59,10 +59,6 @@ The `Joke` component represents a single joke item in the list. It displays the 
 - `votes`: Number of votes received for the joke.
 - `text`: Text of the joke.
 
-## Preview
-
-[Add preview image here]
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
