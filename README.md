@@ -1,6 +1,6 @@
 # React JokeList
 
-![Joklist Preview](./jokelist.png)
+![Joklist Preview](./reactjokes.png)
 
 This is a React application that displays a list of jokes fetched from an external API. Users can vote on jokes and see them sorted based on the number of votes they receive. Additionally, users can generate new jokes or clear all votes.
 
